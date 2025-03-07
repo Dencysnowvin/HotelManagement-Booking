@@ -1,0 +1,84 @@
+2025-03-07T00:03:46.387+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:08:46.481+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:13:46.491+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:18:46.496+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:23:46.511+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:28:46.521+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T08:54:26.736+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8h21m41s453ms572µs800ns).
+2025-03-07T08:54:57.972+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T08:59:57.982+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T09:34:32.118+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m35s267ms883µs100ns).
+2025-03-07T09:35:03.246+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T09:40:03.256+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T09:45:03.266+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T10:28:07.465+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m35s165ms438µs400ns).
+2025-03-07T10:30:08.441+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T10:35:08.446+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T10:40:09.488+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T10:53:21.955+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m13s232ms193µs100ns).
+2025-03-07T10:57:52.728+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:09:34.667+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m42s578ms513µs300ns).
+2025-03-07T11:12:05.306+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:17:05.309+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:22:05.326+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:27:05.330+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:32:05.335+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:37:05.348+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:10:16.589+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m28s386ms940µs800ns).
+2025-03-07T12:11:16.824+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:16:16.837+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:21:16.892+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:26:16.906+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:31:17.375+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:36:17.388+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:41:17.399+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:48:08.147+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:48:08.366+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m20s749ms968µs).
+2025-03-07T12:53:08.148+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:53:20.679+05:30  WARN 1628 --- [PaymentService] [http-nio-8084-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Error: 1062, SQLState: 23000
+2025-03-07T12:53:20.680+05:30 ERROR 1628 --- [PaymentService] [http-nio-8084-exec-1] o.h.engine.jdbc.spi.SqlExceptionHelper   : Duplicate entry '104' for key 'payment.UKmpbd1mlbjoa7fp7s3va01sub2'
+2025-03-07T12:58:08.155+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:03:08.161+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:08:08.173+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:13:08.179+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:18:08.181+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:23:08.182+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:28:08.184+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:33:08.195+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:37:45.209+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m36s112ms412µs900ns).
+2025-03-07T14:17:52.713+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m7s505ms442µs400ns).
+2025-03-07T14:18:51.784+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:24:04.251+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m41s448ms326µs400ns).
+2025-03-07T14:25:03.210+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:30:03.211+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:35:22.568+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:35:23.781+05:30  WARN 1628 --- [PaymentService] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49s354ms88µs).
+2025-03-07T14:40:22.578+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:45:22.591+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:50:22.599+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:55:22.602+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:00:22.603+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:05:22.610+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:10:22.620+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:15:22.622+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:20:22.630+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:25:22.637+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:30:22.640+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:35:22.652+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:40:22.659+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:45:22.664+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:50:22.679+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:55:22.698+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:00:22.703+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:05:22.709+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:10:22.747+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:15:22.757+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:20:22.767+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:25:22.779+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:30:22.784+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:35:22.786+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:40:22.796+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:45:22.801+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:50:22.810+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:55:22.823+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T17:00:22.842+05:30  INFO 1628 --- [PaymentService] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration

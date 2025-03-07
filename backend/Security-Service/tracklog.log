@@ -1,0 +1,391 @@
+2025-03-06T09:01:32.320+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14h22m17s420ms63µs500ns).
+2025-03-06T09:03:42.337+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:08:42.384+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:13:42.388+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:18:42.396+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:23:42.397+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:28:42.402+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:33:42.406+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:38:42.420+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:43:42.428+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:48:42.441+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:53:42.443+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T09:58:42.465+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:03:42.473+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:08:42.477+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:13:42.494+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:18:42.501+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:23:42.511+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:28:42.514+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:31:44.331+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m4s965ms744µs400ns).
+2025-03-06T10:35:19.728+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:40:19.732+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:45:19.783+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:50:19.787+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T10:55:19.796+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T11:19:20.518+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m35s776ms901µs300ns).
+2025-03-06T11:20:25.643+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T11:25:25.659+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T11:33:45.491+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m24s893ms219µs900ns).
+2025-03-06T11:38:20.546+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T11:55:45.031+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s440ms974µs900ns).
+2025-03-06T11:58:19.992+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:03:20.005+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:08:20.014+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:13:20.016+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:20:37.737+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m52s451ms559µs300ns).
+2025-03-06T12:22:42.460+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:27:42.466+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:32:42.471+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:33:57.843+05:30  INFO 12348 --- [security-service] [main] com.SpringSecurityLatestApplication      : Starting SpringSecurityLatestApplication using Java 21.0.5 with PID 12348 (C:\Users\2380379\Documents\ShoppingApp Authorization\Security-Service\target\classes started by 2380379 in C:\Users\2380379\Documents\ShoppingApp Authorization\Security-Service)
+2025-03-06T12:33:57.844+05:30  INFO 12348 --- [security-service] [main] com.SpringSecurityLatestApplication      : No active profile set, falling back to 1 default profile: "default"
+2025-03-06T12:33:57.882+05:30  INFO 12348 --- [security-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:1234
+2025-03-06T12:33:57.882+05:30  INFO 12348 --- [security-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=security-service, profiles=[default], label=null, version=523783eae60c191ead37fd6e92587de3970090a5, state=
+2025-03-06T12:33:59.664+05:30  INFO 12348 --- [security-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-03-06T12:34:00.356+05:30  INFO 12348 --- [security-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 677 ms. Found 1 JPA repository interface.
+2025-03-06T12:34:00.601+05:30  INFO 12348 --- [security-service] [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=66137523-675c-39d9-b6b3-23a0b0dc70f6
+2025-03-06T12:34:00.950+05:30  INFO 17576 --- [security-service] [main] com.SpringSecurityLatestApplication      : Starting SpringSecurityLatestApplication using Java 21.0.5 with PID 17576 (C:\Users\2380379\Documents\ShoppingApp Authorization\Security-Service\target\classes started by 2380379 in C:\Users\2380379\Documents\ShoppingApp Authorization\Security-Service)
+2025-03-06T12:34:00.952+05:30  INFO 17576 --- [security-service] [main] com.SpringSecurityLatestApplication      : No active profile set, falling back to 1 default profile: "default"
+2025-03-06T12:34:01.001+05:30  INFO 17576 --- [security-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:1234
+2025-03-06T12:34:01.001+05:30  INFO 17576 --- [security-service] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=security-service, profiles=[default], label=null, version=523783eae60c191ead37fd6e92587de3970090a5, state=
+2025-03-06T12:34:01.068+05:30  INFO 12348 --- [security-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9194 (http)
+2025-03-06T12:34:01.084+05:30  INFO 12348 --- [security-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-06T12:34:01.084+05:30  INFO 12348 --- [security-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-06T12:34:01.164+05:30  INFO 12348 --- [security-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-06T12:34:01.165+05:30  INFO 12348 --- [security-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3280 ms
+2025-03-06T12:34:01.465+05:30  INFO 12348 --- [security-service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-03-06T12:34:01.563+05:30  INFO 12348 --- [security-service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.5.Final
+2025-03-06T12:34:01.608+05:30  INFO 12348 --- [security-service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-03-06T12:34:01.906+05:30  INFO 12348 --- [security-service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-03-06T12:34:01.967+05:30  INFO 12348 --- [security-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-03-06T12:34:02.299+05:30  INFO 12348 --- [security-service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@66049424
+2025-03-06T12:34:02.302+05:30  INFO 12348 --- [security-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-03-06T12:34:02.360+05:30  WARN 12348 --- [security-service] [main] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-03-06T12:34:02.383+05:30  INFO 12348 --- [security-service] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.40
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-03-06T12:34:02.750+05:30  INFO 17576 --- [security-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-03-06T12:34:03.384+05:30  INFO 12348 --- [security-service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-03-06T12:34:03.439+05:30  INFO 12348 --- [security-service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-03-06T12:34:03.529+05:30  INFO 17576 --- [security-service] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 757 ms. Found 1 JPA repository interface.
+2025-03-06T12:34:03.945+05:30  INFO 17576 --- [security-service] [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=66137523-675c-39d9-b6b3-23a0b0dc70f6
+2025-03-06T12:34:04.208+05:30  INFO 12348 --- [security-service] [main] eAuthenticationProviderManagerConfigurer : Global AuthenticationManager configured with AuthenticationProvider bean with name authenticationProvider
+2025-03-06T12:34:04.209+05:30  WARN 12348 --- [security-service] [main] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used by Spring Security for automatically configuring username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider. If the current configuration is intentional, to turn off this warning, increase the logging level of 'org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer' to ERROR
+2025-03-06T12:34:04.251+05:30  WARN 12348 --- [security-service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-03-06T12:34:04.679+05:30  INFO 17576 --- [security-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9194 (http)
+2025-03-06T12:34:04.714+05:30  INFO 17576 --- [security-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-06T12:34:04.714+05:30  INFO 17576 --- [security-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-03-06T12:34:04.861+05:30  INFO 17576 --- [security-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-06T12:34:04.862+05:30  INFO 17576 --- [security-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3858 ms
+2025-03-06T12:34:05.231+05:30  INFO 17576 --- [security-service] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-03-06T12:34:05.386+05:30  INFO 17576 --- [security-service] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.5.Final
+2025-03-06T12:34:05.471+05:30  INFO 17576 --- [security-service] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-03-06T12:34:05.783+05:30  INFO 12348 --- [security-service] [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2025-03-06T12:34:05.874+05:30  WARN 12348 --- [security-service] [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2025-03-06T12:34:05.978+05:30  INFO 12348 --- [security-service] [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2025-03-06T12:34:06.042+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2025-03-06T12:34:06.055+05:30  INFO 12348 --- [security-service] [main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:34:06.086+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2025-03-06T12:34:06.086+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2025-03-06T12:34:06.087+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2025-03-06T12:34:06.087+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2025-03-06T12:34:06.087+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2025-03-06T12:34:06.087+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2025-03-06T12:34:06.087+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2025-03-06T12:34:06.261+05:30  INFO 17576 --- [security-service] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-03-06T12:34:06.356+05:30  INFO 17576 --- [security-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-03-06T12:34:06.630+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2025-03-06T12:34:06.635+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2025-03-06T12:34:06.640+05:30  INFO 12348 --- [security-service] [main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2025-03-06T12:34:06.643+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1741244646642 with initial instances count: 5
+2025-03-06T12:34:06.651+05:30  INFO 12348 --- [security-service] [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application SECURITY-SERVICE with eureka with status UP
+2025-03-06T12:34:06.653+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1741244646653, current=UP, previous=STARTING]
+2025-03-06T12:34:06.657+05:30  INFO 12348 --- [security-service] [DiscoveryClient-InstanceInfoReplicator-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194: registering service...
+2025-03-06T12:34:06.672+05:30  INFO 12348 --- [security-service] [main] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application SECURITY-SERVICE with eureka with status DOWN
+2025-03-06T12:34:06.673+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1741244646673, current=DOWN, previous=UP]
+2025-03-06T12:34:06.674+05:30  WARN 12348 --- [security-service] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-03-06T12:34:06.679+05:30  INFO 12348 --- [security-service] [main] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-03-06T12:34:06.683+05:30  INFO 12348 --- [security-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-03-06T12:34:06.704+05:30  INFO 12348 --- [security-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-03-06T12:34:06.705+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2025-03-06T12:34:06.743+05:30  INFO 12348 --- [security-service] [DiscoveryClient-InstanceInfoReplicator-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194 - registration status: 204
+2025-03-06T12:34:06.744+05:30  INFO 12348 --- [security-service] [DiscoveryClient-InstanceInfoReplicator-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194: registering service...
+2025-03-06T12:34:06.750+05:30  INFO 12348 --- [security-service] [DiscoveryClient-InstanceInfoReplicator-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194 - registration status: 204
+2025-03-06T12:34:06.750+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2025-03-06T12:34:06.760+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194 - deregister  status: 200
+2025-03-06T12:34:06.761+05:30  INFO 12348 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2025-03-06T12:34:06.792+05:30  INFO 12348 --- [security-service] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-03-06T12:34:06.847+05:30 ERROR 12348 --- [security-service] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9194 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9194 or configure this application to listen on another port.
+
+2025-03-06T12:34:07.065+05:30  INFO 17576 --- [security-service] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@550a78ed
+2025-03-06T12:34:07.072+05:30  INFO 17576 --- [security-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-03-06T12:34:07.158+05:30  WARN 17576 --- [security-service] [main] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-03-06T12:34:07.186+05:30  INFO 17576 --- [security-service] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.40
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-03-06T12:34:08.353+05:30  INFO 17576 --- [security-service] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-03-06T12:34:08.422+05:30  INFO 17576 --- [security-service] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-03-06T12:34:09.211+05:30  INFO 17576 --- [security-service] [main] eAuthenticationProviderManagerConfigurer : Global AuthenticationManager configured with AuthenticationProvider bean with name authenticationProvider
+2025-03-06T12:34:09.212+05:30  WARN 17576 --- [security-service] [main] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used by Spring Security for automatically configuring username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider. If the current configuration is intentional, to turn off this warning, increase the logging level of 'org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer' to ERROR
+2025-03-06T12:34:09.251+05:30  WARN 17576 --- [security-service] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-03-06T12:34:10.378+05:30  INFO 17576 --- [security-service] [main] DiscoveryClientOptionalArgsConfiguration : Eureka HTTP Client uses RestTemplate.
+2025-03-06T12:34:10.440+05:30  WARN 17576 --- [security-service] [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2025-03-06T12:34:10.513+05:30  INFO 17576 --- [security-service] [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2025-03-06T12:34:10.549+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2025-03-06T12:34:10.556+05:30  INFO 17576 --- [security-service] [main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:34:10.571+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+2025-03-06T12:34:10.571+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+2025-03-06T12:34:10.571+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+2025-03-06T12:34:10.571+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+2025-03-06T12:34:10.572+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+2025-03-06T12:34:10.572+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+2025-03-06T12:34:10.572+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+2025-03-06T12:34:10.593+05:30  INFO 22200 --- [security-service] [DiscoveryClient-HeartbeatExecutor-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194 - Re-registering apps/SECURITY-SERVICE
+2025-03-06T12:34:10.593+05:30  INFO 22200 --- [security-service] [DiscoveryClient-HeartbeatExecutor-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194: registering service...
+2025-03-06T12:34:10.652+05:30  INFO 22200 --- [security-service] [DiscoveryClient-HeartbeatExecutor-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194 - registration status: 204
+2025-03-06T12:34:10.912+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+2025-03-06T12:34:10.915+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+2025-03-06T12:34:10.919+05:30  INFO 17576 --- [security-service] [main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+2025-03-06T12:34:10.922+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1741244650922 with initial instances count: 5
+2025-03-06T12:34:10.928+05:30  INFO 17576 --- [security-service] [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application SECURITY-SERVICE with eureka with status UP
+2025-03-06T12:34:10.929+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1741244650929, current=UP, previous=STARTING]
+2025-03-06T12:34:10.932+05:30  INFO 17576 --- [security-service] [DiscoveryClient-InstanceInfoReplicator-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194: registering service...
+2025-03-06T12:34:10.941+05:30  INFO 17576 --- [security-service] [main] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application SECURITY-SERVICE with eureka with status DOWN
+2025-03-06T12:34:10.942+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1741244650942, current=DOWN, previous=UP]
+2025-03-06T12:34:10.942+05:30  WARN 17576 --- [security-service] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-03-06T12:34:10.947+05:30  INFO 17576 --- [security-service] [main] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-03-06T12:34:10.951+05:30  INFO 17576 --- [security-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-03-06T12:34:10.967+05:30  INFO 17576 --- [security-service] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-03-06T12:34:10.968+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2025-03-06T12:34:11.003+05:30  INFO 17576 --- [security-service] [DiscoveryClient-InstanceInfoReplicator-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194 - registration status: 204
+2025-03-06T12:34:11.003+05:30  INFO 17576 --- [security-service] [DiscoveryClient-InstanceInfoReplicator-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194: registering service...
+2025-03-06T12:34:11.006+05:30  INFO 17576 --- [security-service] [DiscoveryClient-InstanceInfoReplicator-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194 - registration status: 204
+2025-03-06T12:34:11.007+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Unregistering ...
+2025-03-06T12:34:11.013+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194 - deregister  status: 200
+2025-03-06T12:34:11.014+05:30  INFO 17576 --- [security-service] [main] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2025-03-06T12:34:11.034+05:30  INFO 17576 --- [security-service] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-03-06T12:34:11.064+05:30 ERROR 17576 --- [security-service] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9194 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9194 or configure this application to listen on another port.
+
+2025-03-06T12:34:40.676+05:30  INFO 22200 --- [security-service] [DiscoveryClient-HeartbeatExecutor-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194 - Re-registering apps/SECURITY-SERVICE
+2025-03-06T12:34:40.677+05:30  INFO 22200 --- [security-service] [DiscoveryClient-HeartbeatExecutor-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194: registering service...
+2025-03-06T12:34:40.680+05:30  INFO 22200 --- [security-service] [DiscoveryClient-HeartbeatExecutor-%d] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SECURITY-SERVICE/LTIN561892.mshome.net:security-service:9194 - registration status: 204
+2025-03-06T12:37:42.484+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:42:42.524+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:47:42.539+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T12:58:56.194+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m17s977ms5µs200ns).
+2025-03-06T13:00:30.511+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T13:34:22.299+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m26s37ms278µs200ns).
+2025-03-06T13:35:26.535+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T14:01:54.784+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m2s432ms837µs).
+2025-03-06T14:02:58.977+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T14:07:58.984+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T14:12:58.986+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T14:17:59.001+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T14:22:59.015+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T14:27:59.023+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T14:32:59.025+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T14:37:59.030+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T15:04:12.343+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m46s921ms541µs800ns).
+2025-03-06T15:08:15.947+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T15:13:15.950+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T15:27:48.307+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m35s827ms213µs700ns).
+2025-03-06T15:31:30.801+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m42s493ms560µs300ns).
+2025-03-06T15:34:34.268+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T15:39:34.282+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T15:44:34.297+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T15:49:34.310+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T15:54:34.324+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T16:02:10.534+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m39s320ms710µs300ns).
+2025-03-06T16:02:43.631+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T16:06:58.857+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m18s252ms496µs900ns).
+2025-03-06T16:09:31.894+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T16:14:59.102+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m192ms4µs300ns).
+2025-03-06T16:19:02.094+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T16:24:02.105+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T16:29:02.106+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T17:17:10.804+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47m11s452ms898µs600ns).
+2025-03-06T17:20:43.555+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T17:25:43.571+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T17:30:43.590+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T17:35:43.601+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T17:40:43.607+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T17:45:43.612+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T17:50:43.628+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T17:54:14.735+05:30  INFO 22200 --- [security-service] [http-nio-9194-exec-8] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x030x010xf40x010x000x010xf00x030x030x070xaa0x030xe30xb3@0xd4['B`0x160xb90xff0xc90xce0x900x9ao0x1430x83 ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:406) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-03-06T17:54:14.813+05:30  INFO 22200 --- [security-service] [http-nio-9194-exec-9] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x020x010xc00x010x000x010xbc0x030x0270x1a)YC0xeez40xab0xd90xdbB0x900x860x01`0x99}$a0xc10xc20x1b0xcd0xf50x7f0x0480xb90xcb50x140x000x01|0x000x000x000x010x000x020x000x030x000x040x000x050x000x060x000x070x000x080x000x090x000x0a0x000x0b0x000x0c0x000x0d0x000x0e0x000x0f0x000x100x000x110x000x120x000x130x000x140x000x150x000x160x000x170x000x180x000x190x000x1a0x000x1b0x00/0x0000x0010x0020x0030x0040x0050x0060x0070x0080x0090x00:0x00;0x00<0x00=0x00>0x00?0x00@0x00A0x00B0x00C0x00D0x00E0x00F0x00g0x00h0x00i0x00j0x00k0x00l0x00m0x000x840x000x850x000x860x000x870x000x880x000x890x000x960x000x970x000x980x000x990x000x9a0x000x9b0x000x9c0x000x9d0x000x9e0x000x9f0x000xa00x000xa10x000xa20x000xa30x000xa40x000xa50x000xa60x000xa70x000xba0x000xbb0x000xbc0x000xbd0x000xbe0x000xbf0x000xc00x000xc10x000xc20x000xc30x000xc40x000xc50x130x010x130x020x130x030x130x040x130x050xc00x010xc00x020xc00x030xc00x040xc00x050xc00x060xc00x070xc00x080xc00x090xc00x0a0xc00x0b0xc00x0c0xc00x0d0xc00x0e0xc00x0f0xc00x100xc00x110xc00x120xc00x130xc00x140xc00x150xc00x160xc00x170xc00x180xc00x190xc0#0xc0$0xc0%0xc0&0xc0'0xc0(0xc0)0xc0*0xc0+0xc0,0xc0-0xc0.0xc0/0xc000xc010xc020xc0r0xc0s0xc0t0xc0u0xc0v0xc0w0xc0x0xc0y0xc0z0xc0{0xc0|0xc0}0xc0~0xc00x7f0xc00x800xc00x810xc00x820xc00x830xc00x840xc00x850xc00x860xc00x870xc00x880xc00x890xc00x8a0xc00x8b0xc00x8c0xc00x8d0xc00x8e0xc00x8f0xc00x900xc00x910xc00x920xc00x930xc00x940xc00x950xc00x960xc00x970xc00x980xc00x990xc00x9a0xc00x9b0xcc0xa80xcc0xa90xcc0xaa0xcc0xab0xcc0xac0xcc0xad0xcc0xae0x020x000x010x000x160x000x0a0x000x0a0x000x080x000x170x000x190x000x180x000x160x000x0b0x000x040x030x000x010x02...]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:406) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:270) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-03-06T17:55:43.641+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T18:38:22.578+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m11s185ms600µs).
+2025-03-06T18:39:24.850+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T21:55:36.427+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h12m43s738ms992µs700ns).
+2025-03-06T21:56:38.658+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:01:38.670+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:06:38.678+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:09:15.948+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m9s269ms358µs800ns).
+2025-03-06T22:12:17.961+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:17:17.970+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:22:17.978+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:27:17.985+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:32:17.989+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:37:17.996+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:42:18.012+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:47:18.028+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:52:18.030+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T22:57:18.040+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T23:02:18.041+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T23:07:18.053+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T23:20:03.083+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m46s237ms215µs900ns).
+2025-03-06T23:24:34.290+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T23:29:34.305+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T23:34:34.318+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T23:39:34.321+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T23:44:34.327+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T23:49:34.341+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T23:54:34.354+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-06T23:59:34.363+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:04:34.371+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:09:34.470+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:14:34.477+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:19:34.487+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:24:34.499+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T00:29:34.514+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T08:54:15.484+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8h21m41s191ms560µs).
+2025-03-07T08:55:45.707+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T09:00:45.710+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T09:34:50.871+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m35s272ms560µs600ns).
+2025-03-07T09:35:50.974+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T09:40:50.994+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T09:45:50.999+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T10:27:56.280+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m35s158ms999µs500ns).
+2025-03-07T10:30:56.159+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T10:35:56.174+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T10:53:10.745+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m13s280ms91µs600ns).
+2025-03-07T10:53:40.487+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T10:58:40.502+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:09:23.493+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m42s589ms773µs500ns).
+2025-03-07T11:12:53.103+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:17:53.121+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:22:53.132+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:27:53.141+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:32:53.153+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T11:37:53.165+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:10:35.596+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m28s375ms209µs100ns).
+2025-03-07T12:12:04.638+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:17:04.653+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:22:04.655+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:27:04.663+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:32:04.667+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:37:04.679+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:42:04.683+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:47:56.839+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m20s748ms988µs100ns).
+2025-03-07T12:48:55.433+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:53:55.440+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T12:58:55.444+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:03:55.452+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:08:55.453+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:13:55.465+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:18:55.476+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:23:55.479+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:28:55.489+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T13:33:55.502+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:17:41.067+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=41m13s588ms826µs100ns).
+2025-03-07T14:19:39.085+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:24:22.595+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m41s434ms851µs800ns).
+2025-03-07T14:25:50.517+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:30:50.525+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:35:42.110+05:30  WARN 22200 --- [security-service] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49s345ms998µs700ns).
+2025-03-07T14:36:09.880+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:41:09.896+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:46:09.923+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:51:09.924+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T14:56:09.940+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:01:09.952+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:06:09.967+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:11:09.978+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:16:09.993+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:21:10.004+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:26:10.010+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:31:10.015+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:36:10.029+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:41:10.035+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:46:10.052+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:51:10.057+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T15:56:10.065+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:01:10.073+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:06:10.085+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:11:10.090+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:16:10.092+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:21:10.106+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:26:10.124+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:31:10.129+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:36:10.147+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:41:10.153+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:46:10.192+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:51:10.208+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T16:56:10.222+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2025-03-07T17:01:10.229+05:30  INFO 22200 --- [security-service] [AsyncResolver-bootstrap-executor-%d] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration

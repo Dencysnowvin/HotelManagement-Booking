@@ -1,0 +1,17 @@
+.nav-style {
+    background-color: orange;
+}
+
+.brand-style {
+    color: white;
+}
+
+.link-style {
+    color: white;
+}
+
+.sticky-nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
